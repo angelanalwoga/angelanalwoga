@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Location: Norwood, Massachusetts, USA
+# My Favorite Fluorophore: BV421
+# Previous Coding Experience: Attended a few beginer R training courses but didn't practice
+# What I Hope to Get From This Course: Application of R in flow cytometry
